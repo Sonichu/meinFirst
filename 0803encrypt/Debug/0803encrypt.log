@@ -1,0 +1,4 @@
+﻿  encrypt.c
+c:\users\spira\source\repos\0803encrypt\0803encrypt\encrypt.c(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\spira\source\repos\0803encrypt\0803encrypt\encrypt.c(29): warning C4018: “<”: 有符号/无符号不匹配
+  0803encrypt.vcxproj -> C:\Users\spira\source\repos\0803encrypt\Debug\0803encrypt.exe
